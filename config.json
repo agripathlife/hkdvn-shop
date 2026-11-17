@@ -1,0 +1,23 @@
+{
+  "shopName": "Tạp Hóa Minh Tâm",
+  "phone": "0000000",
+  "zaloPhone": "0000000",
+  "address": "128 Nguyễn Trãi, Quận 1, TP. Hồ Chí Minh",
+  "model": "retail",
+  "tableCount": 1,
+  "bank": {
+    "bankBin": "970436",
+    "bankShortName": "Vietcombank",
+    "accountNumber": "xxxxxxx",
+    "accountName": "NGUYEN MINH TAM"
+  },
+  "infra": {
+    "driveFolderId": "1Cs3lVQRXv_1qdgXwxnQrYZ08-s0WIgfa",
+    "driveFolderName": "QuanLyCuaHang_Data",
+    "spreadsheetId": "1ocfqSRCY86lFyX5BOF3DH-xnyV2WVqby0fhvwCCsibs",
+    "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1ocfqSRCY86lFyX5BOF3DH-xnyV2WVqby0fhvwCCsibs/edit",
+    "scriptId": "1RrWatfBTEOGCt831nqYo1I0_W0iimuaSLEc26eksxiQcFk57yW7rsmQQ",
+    "gasEndpointUrl": "https://script.google.com/macros/s/AKfycbw9-M-MziQFxO4_-o3wX1PGX0y6QVZpngpY0oucJJYnXzwmkUNPeBooz--6vEzGbQM4Zw/exec",
+    "gasManualRequired": false
+  }
+}
